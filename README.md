@@ -4,8 +4,8 @@
 Dedicated data professional with data analysis, machine learning, and statistical modelling expertise. Skilled at transforming complex data into clear, actionable insights that drive strategic decision-making. Proficient in leveraging advanced analytical tools and techniques to solve business challenges and optimize performance.
 
 ### Education 
- MSc Iot with Data Science | University of Salford (Nov 2024)
- B.S Information Technology | University of Sargodha (May 2017)
+ - MSc Iot with Data Science,   University of Salford (Nov 2024)
+ - B.S Information Technology,   University of Sargodha (May 2017)
 
 ### Work Experience 
 **Research Intern Jun 2024 – Aug 2024 at WSP Global and Eden Smith, Greater Manchester, United Kingdom**
