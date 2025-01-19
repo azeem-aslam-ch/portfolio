@@ -1,5 +1,12 @@
 # Azeem Aslam
 
+**Mobile: +447393494826**
+**Email: azeem.aslam91@yahoo.com**
+LinkedIn: linkedinazeemaslam
+![LinkedIn]((https://www.linkedin.com/in/azeemaslam1/))
+
+**Address: Flat 2, 4 Farm Side Place, Manchester, UK**
+
 ### OBJECTIVES
 Dedicated data professional with data analysis, machine learning, and statistical modelling expertise. Skilled at transforming complex data into clear, actionable insights that drive strategic decision-making. Proficient in leveraging advanced analytical tools and techniques to solve business challenges and optimize performance.
 
