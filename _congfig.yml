@@ -1,0 +1,20 @@
+title: "Azeem Aslam"
+description: "A brief description of your project."
+url: "https://yourproject.github.io"  # Your site's URL
+baseurl: "/"  # The subpath of your site, e.g., /blog
+github_username: "yourusername"  # Your GitHub username
+disclaimer: "This project is in development and may not be stable."
+
+# Image configuration
+image: "/assets/images/your-image.jpg"  # Path to your image
+
+# Theme configuration
+theme: "minima"  # Using the Minima theme
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
