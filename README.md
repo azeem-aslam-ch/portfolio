@@ -4,7 +4,7 @@
 
 **Email: azeem.aslam91@yahoo.com**
 
-LinkedIn: ! [(https://www.linkedin.com/in/azeemaslam1/)]
+**![LinkedIn: ](https://www.linkedin.com/in/azeemaslam1/)**
 
 **Address: Flat 2, 4 Farm Side Place, Manchester, UK**
 
